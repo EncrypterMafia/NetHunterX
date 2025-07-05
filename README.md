@@ -38,7 +38,7 @@ Perfect for **ethical hackers**, **network auditors**, or anyone who wants to kn
 ```apt update && upgrade -y
 pkg install python -y
 pip install colorama
-git clone https://github.com/Encrypter Mafia/NetHunterX
+git clone https://github.com/EncrypterMafia/NetHunterX
 ```
 
 ---
