@@ -34,9 +34,10 @@ Perfect for **ethical hackers**, **network auditors**, or anyone who wants to kn
 
 ## ⚙️ Installation
 
-```bash
+```apt update && upgrade -y
 pkg install python -y
 pip install colorama
+git clone https://github.com/Encrypter Mafia/NetHunterX
 ```
 
 ---
@@ -44,7 +45,7 @@ pip install colorama
 ## 🚀 Run the Tool
 
 ```bash
-python NetHunterX_AutoPing_Hostname.py
+python NetHunterX.py
 ```
 
 > You’ll see your local subnet auto-detected and scanning will begin.
@@ -86,12 +87,11 @@ python NetHunterX_AutoPing_Hostname.py
 ## 📂 Clone This Repo
 
 ```bash
-git clone https://github.com/yourusername/NetHunterX
+git clone https://github.com/Encrypter Mafia/NetHunterX
 cd NetHunterX
-python NetHunterX_AutoPing_Hostname.py
+python NetHunterX.py
 ```
 
 ---
 
-## ☠️ Let the Mafia Watch Your Network ⚔️
-
+## ☠️ Jai Hind , Jai CyberSec 🇮🇳
