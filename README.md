@@ -28,7 +28,8 @@ Perfect for **ethical hackers**, **network auditors**, or anyone who wants to kn
 
 ## 📷 Screenshot
 
-![screenshot](https://ibb.co/nsv6CFD8)
+![screenshot] 
+![NetHunterX_Interface_Sample](https://github.com/user-attachments/assets/20cc0d34-7e99-4b43-91fb-827d02d28569)
 
 ---
 
