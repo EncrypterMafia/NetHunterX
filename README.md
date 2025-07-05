@@ -28,7 +28,7 @@ Perfect for **ethical hackers**, **network auditors**, or anyone who wants to kn
 
 ## 📷 Screenshot
 
-![screenshot](https://i.imgur.com/OpwjJq3.png)
+![screenshot](https://ibb.co/nsv6CFD8)
 
 ---
 
