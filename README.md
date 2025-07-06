@@ -22,7 +22,7 @@ Perfect for **ethical hackers**, **network auditors**, or anyone who wants to kn
 - ⚡ Fast ping-based scanning using 50 threads
 - 📡 Hostname resolution (shows connected device names)
 - 🎯 Non-root and Termux friendly
-- ☠️ Hacker-style terminal interface (Encrypter Mafia vibes)
+- ☠️ Hacker-style terminal interface ( dark hacking vibes)
 
 ---
 
@@ -38,7 +38,7 @@ Perfect for **ethical hackers**, **network auditors**, or anyone who wants to kn
 ```apt update && upgrade -y
 pkg install python -y
 pip install colorama
-git clone https://github.com/EncrypterMafia/NetHunterX
+git clone https://github.com/karndeepbaror/NetHunterX
 ```
 
 ---
@@ -64,7 +64,7 @@ python NetHunterX.py
 [+] 192.168.43.105 --> android.local
 [+] 192.168.43.110 --> Encrypter-PC
 
-✅ Auto Subnet Device Scan Finished - By Encrypter Mafia
+✅ Auto Subnet Device Scan Finished - By KK HACKER
 ```
 
 ---
@@ -88,7 +88,7 @@ python NetHunterX.py
 ## 📂 Clone This Repo
 
 ```bash
-git clone https://github.com/Encrypter Mafia/NetHunterX
+git clone https://github.com/karndeepbaror/NetHunterX
 cd NetHunterX
 python NetHunterX.py
 ```
