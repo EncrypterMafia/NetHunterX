@@ -12,8 +12,8 @@ def banner():
     print(Fore.RED + "╔" + "═" * 65 + "╗")
     print(Fore.RED + "║" + Fore.LIGHTRED_EX + "   ☠️ NetHunterX - Auto Subnet Device Scanner ☠️".center(65) + Fore.RED + "║")
     print(Fore.RED + "╠" + "═" * 65 + "╣")
-    print(Fore.RED + "║" + Fore.YELLOW + "       Developed by Encrypter Mafia".center(65) + Fore.RED + "║")
-    print(Fore.RED + "║" + Fore.MAGENTA + "       Telegram: @EncrypterMafia".center(65) + Fore.RED + "║")
+    print(Fore.RED + "║" + Fore.YELLOW + "       Developed by Karndeep Kumar".center(65) + Fore.RED + "║")
+    print(Fore.RED + "║" + Fore.MAGENTA + "       Telegram: @karnd33p".center(65) + Fore.RED + "║")
     print(Fore.RED + "╚" + "═" * 65 + "╝\n")
 
 def get_base_ip():
@@ -69,7 +69,7 @@ def main():
     for ip, hostname in live_hosts:
         print(Fore.GREEN + f"[+] {ip} --> {Fore.CYAN}{hostname}")
     print(Fore.LIGHTBLACK_EX + "-" * 60)
-    print(Fore.LIGHTGREEN_EX + "\n✅ Auto Subnet Device Scan Finished - By Encrypter Mafia\n")
+    print(Fore.LIGHTGREEN_EX + "\n✅ Auto Subnet Device Scan Finished - By Karndeep Baror\n")
 
 if __name__ == "__main__":
     main()
